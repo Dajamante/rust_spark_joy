@@ -6,9 +6,7 @@
 [Cross language attacks](https://www.ndss-symposium.org/wp-content/uploads/2022-78-paper.pdf)
 Even though this paper is centered on C and Rust, this has motivated this thesis.
 
-[Detecting Cross-language Memory Management Issues in Rust](https://link-springer-com.focus.lib.kth.se/chapter/10.1007/978-3-031-17143-7_33)
-
-Forward searching from the first CLA paper.
+[Detecting Cross-language Memory Management Issues in Rust](https://link-springer-com.focus.lib.kth.se/chapter/10.1007/978-3-031-17143-7_33). Forward searching from the first CLA paper.
 
 [Improving Quality Of Software With Foreign Function Interfaces Using Static Analysis](https://core.ac.uk/download/pdf/228638431.pdf)
 Pretty good, exposes many principles and specific examples, unfortunately with Java and JNI but the unhandled exceptions might be reusable. Also talks in general terms of the problems for FFI.
@@ -18,6 +16,7 @@ Focused on software quality even if I will not be using the MIRI implementation.
 
 [Linking Types for Multi-Language Software: Have Your Cake and Eat It Too](https://drops.dagstuhl.de/opus/volltexte/2017/7125)
 Pretty good about the challenges for the programmer and the compiler, to reason with FFI.
+I find the part about linking types quite complicated and I am not sure how relevant it is to our main problem. How far fetched is it to talk about linking types in FFI?
 
 [Borrowing Safe Pointers from Rust in SPARK](https://arxiv.org/pdf/1805.05576.pdf)
 Obviously relevant.
@@ -32,6 +31,8 @@ Pretty accessible.
 
 
 ### Maybe
+
+[Strengthening memory safety in Rust: exploring CHERI capabilities for a safe language](https://nw0.github.io/cheri-rust.pdf)
 
 [Checking Type Safety of Foreign Function Calls](https://dl-acm-org.focus.lib.kth.se/doi/pdf/10.1145/1377492.1377493)
 
