@@ -1,0 +1,10 @@
+[book]
+authors = ["Aïssata Maiga"]
+language = "en"
+multilingual = true
+src = "src"
+title = "Does rust SPARK joy?"
+
+
+[output.html]
+mathjax-support = true
