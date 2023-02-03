@@ -9,8 +9,10 @@
 - Anecdotic relevance: remind that incorrect programs can be compiled and communicate together: example is my first program that was returning some random address because the Rust side had a returning `i32`.
 - Rust has the borrow checker, SPARK has gnatprove. But gnatprove would be very costly to integrate into compilation.
 - Generalization of this work? 
+- memory safety, type safety, ownership
 
 ## The background 
+- memory safety, type safety, ownership
 ## My own background
 - Description of memory safety, type safety, ownership
 - Will need some description of Rust, Ada, SPARK and what makes SPARK itself and not Ada

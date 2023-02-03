@@ -6,10 +6,12 @@
 [Cross language attacks](https://www.ndss-symposium.org/wp-content/uploads/2022-78-paper.pdf)
 Even though this paper is centered on C and Rust, this has motivated this thesis.
 
-[Detecting Cross-language Memory Management Issues in Rust](https://link-springer-com.focus.lib.kth.se/chapter/10.1007/978-3-031-17143-7_33). Forward searching from the first CLA paper.
-
 [Improving Quality Of Software With Foreign Function Interfaces Using Static Analysis](https://core.ac.uk/download/pdf/228638431.pdf)
 Pretty good, exposes many principles and specific examples, unfortunately with Java and JNI but the unhandled exceptions might be reusable. Also talks in general terms of the problems for FFI.
+
+[Detecting Cross-language Memory Management Issues in Rust](https://link-springer-com.focus.lib.kth.se/chapter/10.1007/978-3-031-17143-7_33). Forward searching from the first CLA paper.
+
+
 
 [Engineering of Reliable and Secure Software via Customizable Integrated Compilation Systems](https://publikationen.bibliothek.kit.edu/1000134165)
 Focused on software quality even if I will not be using the MIRI implementation.
@@ -72,3 +74,7 @@ Too focused on C!
 [What science can tell us about C and C++'s security](https://alexgaynor.net/2020/may/27/science-on-memory-unsafety-and-security/)
 
 [RustFest Rome 2018 - Tshepang Lekhonkhobe: Behind The Scenes Of Producing An Executable](https://www.youtube.com/watch?v=EZHnzTk8YaU)
+
+[Future of memory safety](https://advocacy.consumerreports.org/wp-content/uploads/2023/01/Memory-Safety-Convening-Report.pdf)
+
+[Rust vs Ada on Reddit](https://www.reddit.com/r/rust/comments/pm4k1f/rust_vs_ada_how_do_they_compare/)
