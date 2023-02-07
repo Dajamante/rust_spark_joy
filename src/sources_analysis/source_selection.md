@@ -31,8 +31,14 @@ Relevant for Ada side.
 
 Pretty accessible.
 
+[Weird machines](https://ieeexplore-ieee-org.focus.lib.kth.se/stamp/stamp.jsp?arnumber=8226852)
+Yes as we are talking about exploitation
+
+[SPARK - An Annotated Ada Subset for Safety-Critical Programming](https://dl.acm.org/doi/pdf/10.1145/255471.255563)
 
 ### Maybe
+
+[ML class level interfacing](https://www.adacore.com/uploads/techPapers/Class_level_interfacing.pdf)
 
 [Strengthening memory safety in Rust: exploring CHERI capabilities for a safe language](https://nw0.github.io/cheri-rust.pdf)
 

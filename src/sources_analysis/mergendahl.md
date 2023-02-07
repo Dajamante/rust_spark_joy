@@ -292,4 +292,8 @@ project [130] has proposed such an extension [126].
 
 **the above is a direct entry point into my thesis**
 
+The Cheri project [130] is the
+most successful of these, and has demonstrated that Cheri can
+isolate Rust [126] in multi-language applications.
+
 **then to secure they talk about isolation but it is said to be impractical**
