@@ -3,6 +3,8 @@
 ## Academic sources
 ### Yes 
 
+[Eternal war in memory](https://people.eecs.berkeley.edu/~dawnsong/papers/Oakland13-SoK-CR.pdf)
+
 [Cross language attacks](https://www.ndss-symposium.org/wp-content/uploads/2022-78-paper.pdf)
 Even though this paper is centered on C and Rust, this has motivated this thesis.
 
@@ -11,7 +13,7 @@ Pretty good, exposes many principles and specific examples, unfortunately with J
 
 [Detecting Cross-language Memory Management Issues in Rust](https://link-springer-com.focus.lib.kth.se/chapter/10.1007/978-3-031-17143-7_33). Forward searching from the first CLA paper.
 
-
+[Memory corruption basic attacks](https://ijesc.org/upload/4a057117f90feff62ac8812928f09d10.Memory%20Corruption%20Basic%20Attacks%20and%20Counter%20Measures.pdf)
 
 [Engineering of Reliable and Secure Software via Customizable Integrated Compilation Systems](https://publikationen.bibliothek.kit.edu/1000134165)
 Focused on software quality even if I will not be using the MIRI implementation.

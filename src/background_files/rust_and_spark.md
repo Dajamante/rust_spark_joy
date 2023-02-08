@@ -2,6 +2,7 @@
 
 In this part we will cover defining traits of Rust and SPARK, and what makes them so relevant for safety according to litterature.
 
+Rust and SPARK enforce type safety and have their own flavor of ownership.
 
 ## Rust
 
