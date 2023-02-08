@@ -2,10 +2,9 @@
 
 - [Plan](./plan.md)
 - [Introduction](./introduction.md)
-- [Background](./background.md)
-    - [Background description](./background_files/description.md)
-    - [Rust and SPARK](./background_files/rust_and_spark.md)
+- [Background](./background_files/description.md)
     - [State of software safety](./background_files/software_safety.md)
+    - [Rust and SPARK](./background_files/rust_and_spark.md)
     - [FFI](./background_files/ffi.md)
 - [Appendix](./Appendix/appendix.md)
     - [Definitions](./Appendix/Definitions.md)

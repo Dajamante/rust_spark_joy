@@ -31,6 +31,9 @@ Rust can temporary transfer ownership, known as borrowing. More importantly, Rus
 
 This is protecting against type related errors at compile time, as rustc (the rust compiler) will warn of any error.
 
+
+-- the CVE paper
+https://dl-acm-org.focus.lib.kth.se/doi/10.1145/3466642
 #### Trivial example
 
 ```rust
@@ -45,6 +48,9 @@ In addition, the Rust’s type system statically rules out data races (Jung). At
 The system of ownership is not applied to simple types for which the compiler knows the size at compile-type. Those types are known to implement the `Copy trait`. It means that the compiler can copy those types without needing to transfer ownership. Some simple types implementing the copy traits are integers, for example `i32` or `u64`,
 
 Rust allows unsafe operation that are fenced by the keyword `unsafe{}`. Inside unsafe brackets, operations such as raw pointer manipulation, or initialisations of unsafe objects are possible, under the programmer responsibility. Unsafe blocks are used mainly to interract with low level code.
+
+Rust does not implement exception, but has an error managment system, distinguishing between recoverable and unrecoverable errors. Recoverable errors can be managed by the program, while unrecoverable errors will make the program stop and unwind the stack -called `panic`.
+
 
 # Ada
 
@@ -94,3 +100,7 @@ begin
    Dummy := X.all;      --  illegal
 end Ownership_Transfer;
 ```
+
+-- rust inspired pointesr!!
+
+https://blog.adacore.com/using-pointers-in-spark§
