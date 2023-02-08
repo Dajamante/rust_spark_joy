@@ -1,8 +1,10 @@
 # Rust and SPARK
 
-In this part we will cover defining traits of Rust and SPARK, and what makes them so relevant for safety according to litterature.
+In this part we will cover Rust and SPARK, and what makes them so relevant as safe languages according to literature. This is an attempt to explain why combining those languages might be of the utmost interest for the safety critical industry.
 
 Rust and SPARK enforce type safety and have their own flavor of ownership.
+### Type safety
+
 
 ## Rust
 
