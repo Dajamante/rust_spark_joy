@@ -38,6 +38,9 @@ Yes as we are talking about exploitation
 
 [SPARK - An Annotated Ada Subset for Safety-Critical Programming](https://dl.acm.org/doi/pdf/10.1145/255471.255563)
 
+[Memory safety challenges solved?](https://dl-acm-org.focus.lib.kth.se/doi/10.1145/3466642)
+
+[Is Rust Used Safely by Sofware Developers?](https://dl-acm-org.focus.lib.kth.se/doi/pdf/10.1145/3377811.3380413)
 ### Maybe
 
 [ML class level interfacing](https://www.adacore.com/uploads/techPapers/Class_level_interfacing.pdf)

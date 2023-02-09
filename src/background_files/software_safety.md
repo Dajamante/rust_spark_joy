@@ -75,7 +75,7 @@ While basic approaches like "like modeling, formal analyses different stages of 
 
 Not quite. 
 
-While safe languages are "touted as the solution" (Merendahl), that it is said that "has a significant impact on project success and defect rates" (Scherer) and that some recommended to avoid using C/C++ (Szekeres), we remain dependent to C/C++ for many reasons (legacy, dependencies, not reinventing the wheel for duly tested libraries, cost...). And indeed, most of the real world software we utilise combine several languages.
+While safe languages are "touted as the solution" (Merendahl), that it is said that language choice has significant impact on project success and defect rates, as well as reliability, safety and correctness (Scherer, Evans) and that some recommended to avoid using C/C++ (Szekeres), we remain dependent to C/C++ for many reasons (legacy, dependencies, not reinventing the wheel for duly tested libraries, cost...). And indeed, most of the real world software we utilise combine several languages.
 
 According to Merendahl et all, to date, there is work on securing multi-language applications. This body of work is based on formal methods, securing FFI, isolation or sanitizers. 
 
