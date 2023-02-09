@@ -1,5 +1,8 @@
 # Plan
 
+Not ready and being slightly revised as I write 🙂!
+Currently working on the [background](./background_files/description.md).
+
 ## Intro
 - Why is this an interesting topic?
 - Provide examples where Ada was used in the safety critical industry in the form of a story.
